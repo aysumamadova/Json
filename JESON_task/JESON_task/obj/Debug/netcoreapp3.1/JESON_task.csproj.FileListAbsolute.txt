@@ -1,0 +1,16 @@
+C:\Users\AysuMemmedova\source\repos\JESON_task\JESON_task\bin\Debug\netcoreapp3.1\JESON_task.exe
+C:\Users\AysuMemmedova\source\repos\JESON_task\JESON_task\bin\Debug\netcoreapp3.1\JESON_task.deps.json
+C:\Users\AysuMemmedova\source\repos\JESON_task\JESON_task\bin\Debug\netcoreapp3.1\JESON_task.runtimeconfig.json
+C:\Users\AysuMemmedova\source\repos\JESON_task\JESON_task\bin\Debug\netcoreapp3.1\JESON_task.runtimeconfig.dev.json
+C:\Users\AysuMemmedova\source\repos\JESON_task\JESON_task\bin\Debug\netcoreapp3.1\JESON_task.dll
+C:\Users\AysuMemmedova\source\repos\JESON_task\JESON_task\bin\Debug\netcoreapp3.1\JESON_task.pdb
+C:\Users\AysuMemmedova\source\repos\JESON_task\JESON_task\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\AysuMemmedova\source\repos\JESON_task\JESON_task\obj\Debug\netcoreapp3.1\JESON_task.csproj.AssemblyReference.cache
+C:\Users\AysuMemmedova\source\repos\JESON_task\JESON_task\obj\Debug\netcoreapp3.1\JESON_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AysuMemmedova\source\repos\JESON_task\JESON_task\obj\Debug\netcoreapp3.1\JESON_task.AssemblyInfoInputs.cache
+C:\Users\AysuMemmedova\source\repos\JESON_task\JESON_task\obj\Debug\netcoreapp3.1\JESON_task.AssemblyInfo.cs
+C:\Users\AysuMemmedova\source\repos\JESON_task\JESON_task\obj\Debug\netcoreapp3.1\JESON_task.csproj.CoreCompileInputs.cache
+C:\Users\AysuMemmedova\source\repos\JESON_task\JESON_task\obj\Debug\netcoreapp3.1\JESON_task.csproj.CopyComplete
+C:\Users\AysuMemmedova\source\repos\JESON_task\JESON_task\obj\Debug\netcoreapp3.1\JESON_task.dll
+C:\Users\AysuMemmedova\source\repos\JESON_task\JESON_task\obj\Debug\netcoreapp3.1\JESON_task.pdb
+C:\Users\AysuMemmedova\source\repos\JESON_task\JESON_task\obj\Debug\netcoreapp3.1\JESON_task.genruntimeconfig.cache

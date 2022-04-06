@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xe0wDm14ULEyS+h1pirGWQyJukaW+6hWH6v2SQI740UT1be5B2i0L8VT+5AQWApm8Ck2RR7VzgemK6vpjPbd0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AysuMemmedova\\source\\repos\\JESON_task\\JESON_task\\JESON_task.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AysuMemmedova\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
